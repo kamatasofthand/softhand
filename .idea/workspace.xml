@@ -1,19 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71d33b75-2a32-47de-84ae-708909918c37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XTNRmCUIDudm7N2snp711kFmD8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71d33b75-2a32-47de-84ae-708909918c37" name="Default Changelist" comment="" />
+      <created>1581066118146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581066118146</updated>
+      <workItem from="1581066121266" duration="230000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一版">
+      <created>1581066194919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581066194919</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一版">
+      <created>1581066316709</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581066316709</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一版" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一版" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="587" y="169" key="CommitChangelistDialog2" timestamp="1581066194541">
+    <state x="576" y="230" key="#Notifications" timestamp="1581066363032">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
-    <state x="587" y="169" key="CommitChangelistDialog2/0.23.1920.1032@0.23.1920.1032" timestamp="1581066194541" />
+    <state x="576" y="230" key="#Notifications/0.23.1920.1032@0.23.1920.1032" timestamp="1581066363032" />
+    <state x="587" y="169" key="CommitChangelistDialog2" timestamp="1581066316531">
+      <screen x="0" y="23" width="1920" height="1032" />
+    </state>
+    <state x="587" y="169" key="CommitChangelistDialog2/0.23.1920.1032@0.23.1920.1032" timestamp="1581066316531" />
     <state x="847" y="465" key="Github.ShareDialog" timestamp="1581066158963">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
@@ -22,5 +78,13 @@
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
     <state x="809" y="278" key="Github.UntrackedFilesDialog/0.23.1920.1032@0.23.1920.1032" timestamp="1581066199895" />
+    <state x="485" y="203" key="SettingsEditor" timestamp="1581066358267">
+      <screen x="0" y="23" width="1920" height="1032" />
+    </state>
+    <state x="485" y="203" key="SettingsEditor/0.23.1920.1032@0.23.1920.1032" timestamp="1581066358267" />
+    <state x="576" y="304" key="Vcs.Push.Dialog.v2" timestamp="1581066375681">
+      <screen x="0" y="23" width="1920" height="1032" />
+    </state>
+    <state x="576" y="304" key="Vcs.Push.Dialog.v2/0.23.1920.1032@0.23.1920.1032" timestamp="1581066375681" />
   </component>
 </project>
