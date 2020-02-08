@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71d33b75-2a32-47de-84ae-708909918c37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/longge.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_2689.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/h-4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hp_IMG_8704.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +66,7 @@
       <workItem from="1581069523009" duration="62000" />
       <workItem from="1581069593171" duration="4664000" />
       <workItem from="1581089280124" duration="2627000" />
-      <workItem from="1581178176716" duration="6309000" />
+      <workItem from="1581178176716" duration="6548000" />
     </task>
     <task id="LOCAL-00001" summary="第一版">
       <created>1581066194919</created>
@@ -144,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581090835087</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="第一版">
+      <created>1581185220217</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1581185220217</updated>
+    </task>
+    <task id="LOCAL-00012" summary="第一版">
+      <created>1581185387075</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1581185387075</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,10 +174,10 @@
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
     <state x="673" y="274" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1032@0.23.1920.1032" timestamp="1581073295025" />
-    <state x="587" y="169" key="CommitChangelistDialog2" timestamp="1581185228265">
+    <state x="587" y="169" key="CommitChangelistDialog2" timestamp="1581185386949">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
-    <state x="587" y="169" key="CommitChangelistDialog2/0.23.1920.1032@0.23.1920.1032" timestamp="1581185228265" />
+    <state x="587" y="169" key="CommitChangelistDialog2/0.23.1920.1032@0.23.1920.1032" timestamp="1581185386949" />
     <state x="847" y="465" key="Github.ShareDialog" timestamp="1581066603994">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
@@ -246,9 +254,9 @@
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
     <state x="313" y="170" key="SettingsEditor/0.23.1920.1032@0.23.1920.1032" timestamp="1581070044418" />
-    <state x="576" y="304" key="Vcs.Push.Dialog.v2" timestamp="1581185246307">
+    <state x="576" y="304" key="Vcs.Push.Dialog.v2" timestamp="1581185405332">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
-    <state x="576" y="304" key="Vcs.Push.Dialog.v2/0.23.1920.1032@0.23.1920.1032" timestamp="1581185246307" />
+    <state x="576" y="304" key="Vcs.Push.Dialog.v2/0.23.1920.1032@0.23.1920.1032" timestamp="1581185405332" />
   </component>
 </project>
