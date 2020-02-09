@@ -1,6 +1,7 @@
 h2 {
   text-align: center;
   font-size: 1.8em;
+  padding-bottom: 20px;
 }
 
 a {
@@ -37,6 +38,10 @@ hr {
   padding-bottom: 20px;
 }
 
+.menu .container {
+  padding-top: 20px;
+}
+
 /*控制qa上方外边距*/
 .qa {
   margin-top: 50px;
@@ -47,3 +52,12 @@ hr {
   margin: 10px;
 }
 
+.menu img {
+  max-height: 300px;
+
+}
+
+.menu .card-body .btn {
+  width: 120px;
+  margin: 10px;
+}
