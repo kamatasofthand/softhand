@@ -11,6 +11,7 @@ hr {
   margin: 0;
 }
 
+
 /*去两边余白*/
 .slider .container-fluid {
   padding: 0;
@@ -45,3 +46,4 @@ hr {
   width: 120px;
   margin: 10px;
 }
+
