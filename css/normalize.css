@@ -43,6 +43,11 @@ hr {
   padding-top: 20px;
 }
 
+/*point下面的边距*/
+.point .card-group div {
+  padding: 10px;
+}
+
 /*控制qa上方外边距*/
 .qa {
   margin-top: 50px;
@@ -53,8 +58,8 @@ hr {
   margin: 10px;
 }
 /*主菜单的图片尺寸*/
-.menu > img {
-  width: 30em;
+.menu img {
+  width: 300px;
 
 }
 
