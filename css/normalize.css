@@ -53,8 +53,8 @@ hr {
   margin: 10px;
 }
 /*主菜单的图片尺寸*/
-.menu img {
-  max-width: 30em;
+.menu > img {
+  width: 30em;
 
 }
 
