@@ -54,7 +54,7 @@ hr {
 }
 /*主菜单的图片尺寸*/
 .menu img {
-  width: 30em;
+  max-width: 30em;
 
 }
 
