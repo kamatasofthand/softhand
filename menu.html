@@ -247,6 +247,7 @@
 </section>
 
 
+
 <footer>
   <div class="container">
     <p class="text-center">Copyright © 2017-2020 Oasis .llc Rights Reserved</p>
@@ -262,5 +263,23 @@
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script>
+  $("#btn").on("click", function () {
+    var obj = $("#content").serialize();  //获取id为content的form表单里面的内容,name值均为formspree提供不能更改
+    $.ajax({
+      type: "post",						//必须post请求
+      url: "https://formspree.io/abc@qq.com", //abc@qq.com换成你要接收的邮箱地址
+      async: true,
+      data: obj,
+      dataType: "json",
+      success: res => {
+        alert('邮件已发送!!!');   			//发送成功后的操作
+      },
+      error: res => {
+        alert("未知错误,发送失败");
+      }
+    });
+  })
+</script>
 </body>
 </html>
