@@ -1,422 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71d33b75-2a32-47de-84ae-708909918c37" name="Default Changelist" comment="">
+    <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kamata.html" beforeDir="false" afterPath="$PROJECT_DIR$/kamata.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-kamata.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop-kamata.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1XTNRmCUIDudm7N2snp711kFmD8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1Y1xdgg5hMxa0uGzuflkEmW4xV5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/softhand/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.html" />
-      </list>
-    </recent_temporary>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="71d33b75-2a32-47de-84ae-708909918c37" name="Default Changelist" comment="" />
-      <created>1581066118146</created>
+      <changelist id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="" />
+      <created>1582123990930</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581066118146</updated>
-      <workItem from="1581066121266" duration="2306000" />
-      <workItem from="1581068537014" duration="864000" />
-      <workItem from="1581069458275" duration="52000" />
-      <workItem from="1581069523009" duration="62000" />
-      <workItem from="1581069593171" duration="4664000" />
-      <workItem from="1581089280124" duration="2627000" />
-      <workItem from="1581178176716" duration="7491000" />
-      <workItem from="1581242307530" duration="3626000" />
-      <workItem from="1581258073699" duration="4820000" />
-      <workItem from="1581424576649" duration="624000" />
-      <workItem from="1581430371944" duration="8578000" />
-      <workItem from="1581501431006" duration="2435000" />
-      <workItem from="1581504442917" duration="2111000" />
-      <workItem from="1581512572619" duration="10236000" />
-      <workItem from="1581682293221" duration="2372000" />
-      <workItem from="1581699598302" duration="2143000" />
+      <updated>1582123990930</updated>
+      <workItem from="1582123995292" duration="1319000" />
     </task>
-    <task id="LOCAL-00001" summary="第一版">
-      <created>1581066194919</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1581066194919</updated>
-    </task>
-    <task id="LOCAL-00002" summary="第一版">
-      <created>1581066316709</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1581066316709</updated>
-    </task>
-    <task id="LOCAL-00003" summary="第一版">
-      <created>1581066404288</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1581066404288</updated>
-    </task>
-    <task id="LOCAL-00004" summary="第一版">
-      <created>1581066447724</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1581066447724</updated>
-    </task>
-    <task id="LOCAL-00005" summary="第一版">
-      <created>1581066508198</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1581066508198</updated>
-    </task>
-    <task id="LOCAL-00006" summary="第一版">
-      <created>1581070250902</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1581070250902</updated>
-    </task>
-    <task id="LOCAL-00007" summary="第一版">
-      <created>1581073796429</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1581073796429</updated>
-    </task>
-    <task id="LOCAL-00008" summary="第一版">
-      <created>1581090080727</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1581090080727</updated>
-    </task>
-    <task id="LOCAL-00009" summary="第一版">
-      <created>1581090177601</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1581090177601</updated>
-    </task>
-    <task id="LOCAL-00010" summary="第一版">
-      <created>1581090835087</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1581090835087</updated>
-    </task>
-    <task id="LOCAL-00011" summary="第一版">
-      <created>1581185220217</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1581185220217</updated>
-    </task>
-    <task id="LOCAL-00012" summary="第一版">
-      <created>1581185387075</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1581185387075</updated>
-    </task>
-    <task id="LOCAL-00013" summary="第一版">
-      <created>1581185553486</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1581185553486</updated>
-    </task>
-    <task id="LOCAL-00014" summary="第一版">
-      <created>1581244018540</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1581244018540</updated>
-    </task>
-    <task id="LOCAL-00015" summary="第一版">
-      <created>1581261275812</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1581261275812</updated>
-    </task>
-    <task id="LOCAL-00016" summary="第一版">
-      <created>1581261971763</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1581261971763</updated>
-    </task>
-    <task id="LOCAL-00017" summary="第一版">
-      <created>1581263368690</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1581263368690</updated>
-    </task>
-    <task id="LOCAL-00018" summary="第一版">
-      <created>1581263897563</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1581263897563</updated>
-    </task>
-    <task id="LOCAL-00019" summary="第一版">
-      <created>1581424594795</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1581424594795</updated>
-    </task>
-    <task id="LOCAL-00020" summary="第一版">
-      <created>1581500170070</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1581500170070</updated>
-    </task>
-    <task id="LOCAL-00021" summary="第一版">
-      <created>1581500780299</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1581500780299</updated>
-    </task>
-    <task id="LOCAL-00022" summary="第一版">
-      <created>1581501105978</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1581501105978</updated>
-    </task>
-    <task id="LOCAL-00023" summary="第一版">
-      <created>1581503098780</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1581503098780</updated>
-    </task>
-    <task id="LOCAL-00024" summary="第一版">
-      <created>1581503483854</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1581503483854</updated>
-    </task>
-    <task id="LOCAL-00025" summary="第一版">
-      <created>1581503880452</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1581503880452</updated>
-    </task>
-    <task id="LOCAL-00026" summary="第一版">
-      <created>1581504055581</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1581504055582</updated>
-    </task>
-    <task id="LOCAL-00027" summary="第一版">
-      <created>1581504618479</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1581504618479</updated>
-    </task>
-    <task id="LOCAL-00028" summary="第一版">
-      <created>1581505903171</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1581505903171</updated>
-    </task>
-    <task id="LOCAL-00029" summary="第一版">
-      <created>1581519806858</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1581519806858</updated>
-    </task>
-    <task id="LOCAL-00030" summary="文字">
-      <created>1581526521690</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1581526521691</updated>
-    </task>
-    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="第一版" />
-    <MESSAGE value="文字" />
-    <option name="LAST_COMMIT_MESSAGE" value="文字" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="576" y="230" key="#Notifications" timestamp="1581066363032">
+    <state x="701" y="374" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582124053735">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
-    <state x="576" y="230" key="#Notifications/0.23.1920.1032@0.23.1920.1032" timestamp="1581066363032" />
-    <state x="479" y="198" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581524043022">
-      <screen x="0" y="23" width="1366" height="720" />
-    </state>
-    <state x="479" y="198" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1366.720@0.23.1366.720" timestamp="1581524043022" />
-    <state x="673" y="274" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1032@0.23.1920.1032" timestamp="1581073295025" />
-    <state x="418" y="23" key="CommitChangelistDialog2" timestamp="1581526521312">
-      <screen x="0" y="23" width="1366" height="720" />
-    </state>
-    <state x="418" y="23" key="CommitChangelistDialog2/0.23.1366.720@0.23.1366.720" timestamp="1581526521312" />
-    <state x="587" y="169" key="CommitChangelistDialog2/0.23.1920.1032@0.23.1920.1032" timestamp="1581263897427" />
-    <state x="847" y="465" key="Github.ShareDialog" timestamp="1581066603994">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state x="847" y="465" key="Github.ShareDialog/0.23.1920.1032@0.23.1920.1032" timestamp="1581066603994" />
-    <state x="809" y="278" key="Github.UntrackedFilesDialog" timestamp="1581066199895">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state x="809" y="278" key="Github.UntrackedFilesDialog/0.23.1920.1032@0.23.1920.1032" timestamp="1581066199895" />
-    <state width="1867" height="327" key="GridCell.Tab.0.bottom" timestamp="1581068528952">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.0.bottom/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528952" />
-    <state width="1867" height="327" key="GridCell.Tab.0.center" timestamp="1581068528951">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.0.center/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528951" />
-    <state width="1867" height="327" key="GridCell.Tab.0.left" timestamp="1581068528951">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.0.left/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528951" />
-    <state width="1867" height="327" key="GridCell.Tab.0.right" timestamp="1581068528952">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.0.right/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528952" />
-    <state width="1867" height="327" key="GridCell.Tab.1.bottom" timestamp="1581068528953">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.1.bottom/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528953" />
-    <state width="1867" height="327" key="GridCell.Tab.1.center" timestamp="1581068528953">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.1.center/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528953" />
-    <state width="1867" height="327" key="GridCell.Tab.1.left" timestamp="1581068528952">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.1.left/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528952" />
-    <state width="1867" height="327" key="GridCell.Tab.1.right" timestamp="1581068528953">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.1.right/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528953" />
-    <state width="1867" height="327" key="GridCell.Tab.2.bottom" timestamp="1581068528954">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.2.bottom/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528954" />
-    <state width="1867" height="327" key="GridCell.Tab.2.center" timestamp="1581068528954">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.2.center/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528954" />
-    <state width="1867" height="327" key="GridCell.Tab.2.left" timestamp="1581068528953">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.2.left/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528953" />
-    <state width="1867" height="327" key="GridCell.Tab.2.right" timestamp="1581068528954">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.2.right/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528954" />
-    <state width="1867" height="327" key="GridCell.Tab.3.bottom" timestamp="1581068528955">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.3.bottom/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528955" />
-    <state width="1867" height="327" key="GridCell.Tab.3.center" timestamp="1581068528954">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.3.center/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528954" />
-    <state width="1867" height="327" key="GridCell.Tab.3.left" timestamp="1581068528954">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.3.left/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528954" />
-    <state width="1867" height="327" key="GridCell.Tab.3.right" timestamp="1581068528955">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state width="1867" height="327" key="GridCell.Tab.3.right/0.23.1920.1032@0.23.1920.1032" timestamp="1581068528955" />
-    <state x="313" y="170" key="SettingsEditor" timestamp="1581070044418">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state x="313" y="170" key="SettingsEditor/0.23.1920.1032@0.23.1920.1032" timestamp="1581070044418" />
-    <state x="410" y="219" key="Vcs.Push.Dialog.v2" timestamp="1581526529751">
-      <screen x="0" y="23" width="1366" height="720" />
-    </state>
-    <state x="410" y="219" key="Vcs.Push.Dialog.v2/0.23.1366.720@0.23.1366.720" timestamp="1581526529751" />
-    <state x="576" y="304" key="Vcs.Push.Dialog.v2/0.23.1920.1032@0.23.1920.1032" timestamp="1581263908852" />
-    <state x="348" y="67" width="670" height="158" key="search.everywhere.popup" timestamp="1581525364708">
-      <screen x="0" y="23" width="1366" height="720" />
-    </state>
-    <state x="348" y="67" width="670" height="158" key="search.everywhere.popup/0.23.1366.720@0.23.1366.720" timestamp="1581525364708" />
+    <state x="701" y="374" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1032@0.23.1920.1032" timestamp="1582124053735" />
   </component>
 </project>
