@@ -11,6 +11,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="bd91c567-c893-4436-81f6-cb57df9f36c8" />
@@ -114,17 +115,21 @@
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
     <state x="701" y="374" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1032@0.23.1920.1032" timestamp="1582124053735" />
-    <state x="623" y="172" key="CommitChangelistDialog2" timestamp="1582128598391">
+    <state x="623" y="172" key="CommitChangelistDialog2" timestamp="1582128658792">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
-    <state x="623" y="172" key="CommitChangelistDialog2/0.23.1920.1032@0.23.1920.1032" timestamp="1582128598391" />
+    <state x="623" y="172" key="CommitChangelistDialog2/0.23.1920.1032@0.23.1920.1032" timestamp="1582128658792" />
     <state x="521" y="209" key="SettingsEditor" timestamp="1582128488047">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
     <state x="521" y="209" key="SettingsEditor/0.23.1920.1032@0.23.1920.1032" timestamp="1582128488047" />
-    <state x="612" y="310" key="Vcs.Push.Dialog.v2" timestamp="1582128609822">
+    <state x="612" y="310" key="Vcs.Push.Dialog.v2" timestamp="1582128641683">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
-    <state x="612" y="310" key="Vcs.Push.Dialog.v2/0.23.1920.1032@0.23.1920.1032" timestamp="1582128609822" />
+    <state x="612" y="310" key="Vcs.Push.Dialog.v2/0.23.1920.1032@0.23.1920.1032" timestamp="1582128641683" />
+    <state x="720" y="485" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582128661400">
+      <screen x="0" y="23" width="1920" height="1032" />
+    </state>
+    <state x="720" y="485" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1032@0.23.1920.1032" timestamp="1582128661400" />
   </component>
 </project>
