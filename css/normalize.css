@@ -81,4 +81,6 @@ hr {
 /*员工图片之间的距离*/
 .staff .card-group div img {
   padding: 40px;
+  min-width: 200px;
+  min-height: 200px;
 }
