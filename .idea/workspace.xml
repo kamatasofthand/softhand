@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/bodycare.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/face.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/headcare.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hyper.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/oilmassage.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/shop-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/shop-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/IMG_2689.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hp_IMG_8704.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kamata.html" beforeDir="false" afterPath="$PROJECT_DIR$/kamata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shinyokohama.html" beforeDir="false" afterPath="$PROJECT_DIR$/shinyokohama.html" afterDir="false" />
-    </list>
+    <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +12,7 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="bd91c567-c893-4436-81f6-cb57df9f36c8" />
+    <option name="defaultAccountId" value="f6b5fcb8-bd19-4154-84a9-33053377efa0" />
   </component>
   <component name="ProjectId" id="1Y1xdgg5hMxa0uGzuflkEmW4xV5" />
   <component name="ProjectLevelVcsManager">
@@ -62,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582123990930</updated>
       <workItem from="1582123995292" duration="6993000" />
-      <workItem from="1582209711333" duration="2611000" />
+      <workItem from="1582209711333" duration="2651000" />
     </task>
     <task id="LOCAL-00001" summary="jia">
       <created>1582125695952</created>
@@ -162,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582131388573</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="你好">
+      <created>1582214766495</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1582214766495</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,17 +175,20 @@
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
     <state x="701" y="374" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1032@0.23.1920.1032" timestamp="1582124053735" />
-    <state x="623" y="172" key="CommitChangelistDialog2" timestamp="1582131388433">
-      <screen x="0" y="23" width="1920" height="1032" />
+    <state x="443" y="23" key="CommitChangelistDialog2" timestamp="1582214765995">
+      <screen x="0" y="23" width="1366" height="720" />
     </state>
+    <state x="443" y="23" key="CommitChangelistDialog2/0.23.1366.720@0.23.1366.720" timestamp="1582214765995" />
     <state x="623" y="172" key="CommitChangelistDialog2/0.23.1920.1032@0.23.1920.1032" timestamp="1582131388433" />
-    <state x="521" y="209" key="SettingsEditor" timestamp="1582128488047">
-      <screen x="0" y="23" width="1920" height="1032" />
+    <state x="371" y="23" width="982" height="720" key="SettingsEditor" timestamp="1582214796814">
+      <screen x="0" y="23" width="1366" height="720" />
     </state>
+    <state x="371" y="23" width="982" height="720" key="SettingsEditor/0.23.1366.720@0.23.1366.720" timestamp="1582214796814" />
     <state x="521" y="209" key="SettingsEditor/0.23.1920.1032@0.23.1920.1032" timestamp="1582128488047" />
-    <state x="612" y="310" key="Vcs.Push.Dialog.v2" timestamp="1582131413313">
-      <screen x="0" y="23" width="1920" height="1032" />
+    <state x="435" y="223" key="Vcs.Push.Dialog.v2" timestamp="1582214807973">
+      <screen x="0" y="23" width="1366" height="720" />
     </state>
+    <state x="435" y="223" key="Vcs.Push.Dialog.v2/0.23.1366.720@0.23.1366.720" timestamp="1582214807973" />
     <state x="612" y="310" key="Vcs.Push.Dialog.v2/0.23.1920.1032@0.23.1920.1032" timestamp="1582131413313" />
     <state x="720" y="485" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582128661400">
       <screen x="0" y="23" width="1920" height="1032" />
