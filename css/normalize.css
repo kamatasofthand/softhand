@@ -1,7 +1,7 @@
 h2 {
   text-align: center;
   font-size: 1.8em;
-  padding-bottom: 20px;
+
   padding-top: 20px;
 }
 
@@ -70,12 +70,13 @@ hr {
 
 /*调整菜单栏间距*/
 .shop-menu .table td, .table th {
-  padding: 0.2em;
+  padding: 0;
+  font-size: 1.8em;
 }
 
 /*调整菜单图片与价格对齐*/
 .shop-menu img {
-  margin-top: 4em;
+  margin-top: 2em;
 }
 
 /*员工图片之间的距离*/
