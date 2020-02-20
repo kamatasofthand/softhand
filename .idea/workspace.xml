@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="" />
+    <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/h-4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/h-4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582123990930</updated>
       <workItem from="1582123995292" duration="6993000" />
-      <workItem from="1582209711333" duration="2651000" />
+      <workItem from="1582209711333" duration="2964000" />
     </task>
     <task id="LOCAL-00001" summary="jia">
       <created>1582125695952</created>
@@ -154,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582214766495</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="你好">
+      <created>1582214961157</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1582214961157</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +176,9 @@
     <MESSAGE value="jia" />
     <MESSAGE value="你好" />
     <option name="LAST_COMMIT_MESSAGE" value="你好" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="612" y="235" key="#Deployment" timestamp="1582128780807">
@@ -175,20 +189,20 @@
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
     <state x="701" y="374" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1032@0.23.1920.1032" timestamp="1582124053735" />
-    <state x="443" y="23" key="CommitChangelistDialog2" timestamp="1582214765995">
+    <state x="443" y="23" key="CommitChangelistDialog2" timestamp="1582214960883">
       <screen x="0" y="23" width="1366" height="720" />
     </state>
-    <state x="443" y="23" key="CommitChangelistDialog2/0.23.1366.720@0.23.1366.720" timestamp="1582214765995" />
+    <state x="443" y="23" key="CommitChangelistDialog2/0.23.1366.720@0.23.1366.720" timestamp="1582214960883" />
     <state x="623" y="172" key="CommitChangelistDialog2/0.23.1920.1032@0.23.1920.1032" timestamp="1582131388433" />
     <state x="371" y="23" width="982" height="720" key="SettingsEditor" timestamp="1582214796814">
       <screen x="0" y="23" width="1366" height="720" />
     </state>
     <state x="371" y="23" width="982" height="720" key="SettingsEditor/0.23.1366.720@0.23.1366.720" timestamp="1582214796814" />
     <state x="521" y="209" key="SettingsEditor/0.23.1920.1032@0.23.1920.1032" timestamp="1582128488047" />
-    <state x="435" y="223" key="Vcs.Push.Dialog.v2" timestamp="1582214807973">
+    <state x="435" y="223" key="Vcs.Push.Dialog.v2" timestamp="1582214972437">
       <screen x="0" y="23" width="1366" height="720" />
     </state>
-    <state x="435" y="223" key="Vcs.Push.Dialog.v2/0.23.1366.720@0.23.1366.720" timestamp="1582214807973" />
+    <state x="435" y="223" key="Vcs.Push.Dialog.v2/0.23.1366.720@0.23.1366.720" timestamp="1582214972437" />
     <state x="612" y="310" key="Vcs.Push.Dialog.v2/0.23.1920.1032@0.23.1920.1032" timestamp="1582131413313" />
     <state x="720" y="485" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582128661400">
       <screen x="0" y="23" width="1920" height="1032" />
