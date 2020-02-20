@@ -1,8 +1,11 @@
 h2 {
   text-align: center;
   font-size: 1.8em;
-
   padding-top: 20px;
+}
+
+h3 {
+  font-size: 1.5em;
 }
 
 a {
@@ -71,7 +74,8 @@ hr {
 /*调整菜单栏间距*/
 .shop-menu .table td, .table th {
   padding: 0;
-  font-size: 1.8em;
+  font-size: 1.3em;
+  background-color: whitesmoke;
 }
 
 /*调整菜单图片与价格对齐*/
@@ -82,6 +86,6 @@ hr {
 /*员工图片之间的距离*/
 .staff .card-group div img {
   padding: 40px;
-  min-width: 200px;
-  min-height: 200px;
+  min-width: 100px;
+  min-height: 100px;
 }
