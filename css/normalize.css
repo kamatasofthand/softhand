@@ -8,6 +8,10 @@ h3 {
   font-size: 1.5em;
 }
 
+h4 {
+  font-size: 1.2em;
+}
+
 p {
   font-size: 1em;
 }
@@ -104,4 +108,9 @@ hr {
 /*调整access下边距*/
 .access .card-deck {
   padding-bottom: 2em;
+}
+
+.access img {
+  max-width: 300px;
+  margin: auto;
 }
