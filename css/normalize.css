@@ -97,3 +97,8 @@ hr {
   min-width: 100px;
   min-height: 100px;
 }
+
+/*调整access下边距*/
+.access .card-deck {
+  padding-bottom: 2em;
+}
