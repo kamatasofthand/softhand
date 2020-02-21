@@ -8,6 +8,14 @@ h3 {
   font-size: 1.5em;
 }
 
+p {
+  font-size: 1em;
+}
+
+small {
+  text-align: center;
+}
+
 a {
   color: black;
 }
@@ -74,13 +82,7 @@ hr {
 /*调整菜单栏间距*/
 .shop-menu .table td {
   padding: 0;
-
-  background-color: whitesmoke;
-}
-
-.shop-menu .table th {
-  padding: 0;
-
+  font-size: 1.3em;
   background-color: whitesmoke;
 }
 
