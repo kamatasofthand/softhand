@@ -29,6 +29,10 @@ hr {
   margin: 0;
 }
 
+footer {
+  padding-bottom: 2em;
+}
+
 /*去两边余白*/
 .container-fluid {
   padding: 0;
@@ -113,4 +117,8 @@ hr {
 .access img {
   max-width: 300px;
   margin: auto;
+}
+
+footer li {
+  width: 50%;
 }
