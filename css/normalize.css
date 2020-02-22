@@ -6,7 +6,7 @@ h2 {
 
 h3 {
   font-size: 1.5em;
-  margin-top: 1em;
+
 }
 
 h4 {
@@ -94,10 +94,6 @@ footer {
   background-color: whitesmoke;
 }
 
-/*调整菜单图片与价格对齐*/
-.shop-menu img {
-  margin-top: 2em;
-}
 
 .shop td, .shop th {
   padding: 0;
