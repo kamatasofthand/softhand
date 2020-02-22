@@ -1,5 +1,3 @@
-
-
 h2 {
   text-align: center;
   font-size: 1.8em;
@@ -30,7 +28,6 @@ a {
 hr {
   margin: 0;
 }
-
 
 /*去两边余白*/
 .container-fluid {
@@ -116,9 +113,4 @@ hr {
 .access img {
   max-width: 300px;
   margin: auto;
-}
-
-.feng {
-  font-size: 10px;
-  margin: 0;
 }
