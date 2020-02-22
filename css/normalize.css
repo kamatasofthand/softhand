@@ -1,7 +1,4 @@
-body {
-  margin: 0;
-  padding: 0;
-}
+
 
 h2 {
   text-align: center;
@@ -36,7 +33,7 @@ hr {
 
 
 /*去两边余白*/
-.slider .container-fluid {
+.container-fluid {
   padding: 0;
 }
 
