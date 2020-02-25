@@ -43,7 +43,7 @@ footer p{
 
 /*控制手机宽度*/
 .slider .carousel-inner img {
-  max-height: 600px;
+max-height: 40em;
 }
 
 /*控制news上方外边距*/
