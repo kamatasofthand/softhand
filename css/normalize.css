@@ -32,6 +32,10 @@ hr {
 footer {
   margin-bottom: 4em;
 }
+
+footer p{
+  margin-top: 2em;
+}
 /*去两边余白*/
 .container-fluid {
   padding: 0;
