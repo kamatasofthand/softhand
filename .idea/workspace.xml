@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kamata-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/kamata-menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kamata-shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/kamata-shop.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kamata.html" beforeDir="false" afterPath="$PROJECT_DIR$/kamata.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shinyokohama-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/shinyokohama-menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shinyokohama-qa.html" beforeDir="false" afterPath="$PROJECT_DIR$/shinyokohama-qa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shinyokohama-shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/shinyokohama-shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shinyokohama.html" beforeDir="false" afterPath="$PROJECT_DIR$/shinyokohama.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +64,8 @@
       <workItem from="1582553830964" duration="127000" />
       <workItem from="1582624963125" duration="1448000" />
       <workItem from="1582643220683" duration="3246000" />
-      <workItem from="1582653498810" duration="9443000" />
+      <workItem from="1582653498810" duration="10237000" />
+      <workItem from="1582727361124" duration="2492000" />
     </task>
     <task id="LOCAL-00001" summary="jia">
       <created>1582125695952</created>
@@ -274,7 +284,28 @@
       <option name="project" value="LOCAL" />
       <updated>1582719072109</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="11">
+      <created>1582719305619</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1582719305619</updated>
+    </task>
+    <task id="LOCAL-00033" summary="11">
+      <created>1582719381588</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1582719381588</updated>
+    </task>
+    <task id="LOCAL-00034" summary="11">
+      <created>1582719493537</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1582719493537</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,21 +334,21 @@
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
     <state x="697" y="293" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1032@0.23.1920.1032" timestamp="1582716030048" />
-    <state x="623" y="172" key="CommitChangelistDialog2" timestamp="1582719381467">
+    <state x="623" y="172" key="CommitChangelistDialog2" timestamp="1582719493397">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
     <state x="443" y="23" key="CommitChangelistDialog2/0.23.1366.720@0.23.1366.720" timestamp="1582536351529" />
-    <state x="623" y="172" key="CommitChangelistDialog2/0.23.1920.1032@0.23.1920.1032" timestamp="1582719381467" />
+    <state x="623" y="172" key="CommitChangelistDialog2/0.23.1920.1032@0.23.1920.1032" timestamp="1582719493397" />
     <state x="521" y="209" width="982" height="720" key="SettingsEditor" timestamp="1582553860661">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
     <state x="371" y="23" width="982" height="720" key="SettingsEditor/0.23.1366.720@0.23.1366.720" timestamp="1582533435812" />
     <state x="521" y="209" key="SettingsEditor/0.23.1920.1032@0.23.1920.1032" timestamp="1582553860661" />
-    <state x="612" y="310" key="Vcs.Push.Dialog.v2" timestamp="1582719389797">
+    <state x="612" y="310" key="Vcs.Push.Dialog.v2" timestamp="1582719499507">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
     <state x="435" y="223" key="Vcs.Push.Dialog.v2/0.23.1366.720@0.23.1366.720" timestamp="1582536358872" />
-    <state x="612" y="310" key="Vcs.Push.Dialog.v2/0.23.1920.1032@0.23.1920.1032" timestamp="1582719389797" />
+    <state x="612" y="310" key="Vcs.Push.Dialog.v2/0.23.1920.1032@0.23.1920.1032" timestamp="1582719499507" />
     <state x="720" y="485" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582653642112">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
