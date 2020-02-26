@@ -45,7 +45,11 @@ footer p{
 .slider .carousel-inner img {
 max-height: 40em;
 }
-
+.slider .carousel-caption{
+  background-color: coral;
+  opacity: 0.8;
+  color: black;
+}
 /*控制news上方外边距*/
 .news {
   margin-top: 50px;
