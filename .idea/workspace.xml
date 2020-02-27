@@ -11,6 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -369,10 +370,10 @@
     </state>
     <state x="435" y="223" key="Vcs.Push.Dialog.v2/0.23.1366.720@0.23.1366.720" timestamp="1582536358872" />
     <state x="612" y="310" key="Vcs.Push.Dialog.v2/0.23.1920.1032@0.23.1920.1032" timestamp="1582735125723" />
-    <state x="720" y="485" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582653642112">
+    <state x="720" y="485" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582800786236">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
-    <state x="720" y="485" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1032@0.23.1920.1032" timestamp="1582653642112" />
+    <state x="720" y="485" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1032@0.23.1920.1032" timestamp="1582800786236" />
     <state x="658" y="337" key="git4idea.merge.GitPullDialog" timestamp="1582710529776">
       <screen x="0" y="23" width="1920" height="1032" />
     </state>
