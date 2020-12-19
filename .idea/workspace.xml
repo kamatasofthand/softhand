@@ -19,12 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="">
+    <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="hyper">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kamata-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/kamata-menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kamata.html" beforeDir="false" afterPath="$PROJECT_DIR$/kamata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shinyokohama-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/shinyokohama-menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shinyokohama.html" beforeDir="false" afterPath="$PROJECT_DIR$/shinyokohama.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +35,9 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="bd91c567-c893-4436-81f6-cb57df9f36c8" />
   </component>
   <component name="ProjectId" id="1Y1xdgg5hMxa0uGzuflkEmW4xV5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,7 +54,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -66,7 +64,7 @@
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,7 +82,7 @@
       <workItem from="1582653498810" duration="10237000" />
       <workItem from="1582727361124" duration="4309000" />
       <workItem from="1600850079447" duration="2092000" />
-      <workItem from="1608370298965" duration="645000" />
+      <workItem from="1608370298965" duration="3169000" />
     </task>
     <task id="LOCAL-00001" summary="jia">
       <created>1582125695952</created>
@@ -366,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582800922491</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="hyper">
+      <created>1608370966327</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1608370966327</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,47 +393,21 @@
     <MESSAGE value="jia" />
     <MESSAGE value="你好" />
     <MESSAGE value="11" />
-    <option name="LAST_COMMIT_MESSAGE" value="11" />
+    <MESSAGE value="hyper" />
+    <option name="LAST_COMMIT_MESSAGE" value="hyper" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="612" y="235" key="#Deployment" timestamp="1582128780807">
-      <screen x="0" y="23" width="1920" height="1032" />
+    <state x="490" y="175" key="SettingsEditor" timestamp="1608373162860">
+      <screen x="0" y="25" width="2560" height="1383" />
     </state>
-    <state x="612" y="235" key="#Deployment/0.23.1920.1032@0.23.1920.1032" timestamp="1582128780807" />
-    <state x="559" y="204" key="#Notifications" timestamp="1582653560190">
-      <screen x="0" y="23" width="1920" height="1032" />
+    <state x="490" y="175" key="SettingsEditor/0.25.2560.1383@0.25.2560.1383" timestamp="1608373162860" />
+    <state x="580" y="278" key="Vcs.Push.Dialog.v2" timestamp="1608373272776">
+      <screen x="0" y="25" width="2560" height="1383" />
     </state>
-    <state x="559" y="204" key="#Notifications/0.23.1920.1032@0.23.1920.1032" timestamp="1582653560190" />
-    <state x="701" y="374" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582124053735">
-      <screen x="0" y="23" width="1920" height="1032" />
+    <state x="580" y="278" key="Vcs.Push.Dialog.v2/0.25.2560.1383@0.25.2560.1383" timestamp="1608373272776" />
+    <state x="771" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608373246912">
+      <screen x="0" y="25" width="2560" height="1383" />
     </state>
-    <state x="701" y="374" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1032@0.23.1920.1032" timestamp="1582124053735" />
-    <state x="697" y="293" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582716030048">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state x="697" y="293" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1032@0.23.1920.1032" timestamp="1582716030048" />
-    <state x="623" y="172" key="CommitChangelistDialog2" timestamp="1582800922362">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state x="443" y="23" key="CommitChangelistDialog2/0.23.1366.720@0.23.1366.720" timestamp="1582536351529" />
-    <state x="623" y="172" key="CommitChangelistDialog2/0.23.1920.1032@0.23.1920.1032" timestamp="1582800922362" />
-    <state x="521" y="209" width="982" height="720" key="SettingsEditor" timestamp="1582553860661">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state x="371" y="23" width="982" height="720" key="SettingsEditor/0.23.1366.720@0.23.1366.720" timestamp="1582533435812" />
-    <state x="521" y="209" key="SettingsEditor/0.23.1920.1032@0.23.1920.1032" timestamp="1582553860661" />
-    <state x="612" y="310" key="Vcs.Push.Dialog.v2" timestamp="1582800933579">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state x="435" y="223" key="Vcs.Push.Dialog.v2/0.23.1366.720@0.23.1366.720" timestamp="1582536358872" />
-    <state x="612" y="310" key="Vcs.Push.Dialog.v2/0.23.1920.1032@0.23.1920.1032" timestamp="1582800933579" />
-    <state x="720" y="485" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582800786236">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state x="720" y="485" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1032@0.23.1920.1032" timestamp="1582800786236" />
-    <state x="658" y="337" key="git4idea.merge.GitPullDialog" timestamp="1582710529776">
-      <screen x="0" y="23" width="1920" height="1032" />
-    </state>
-    <state x="658" y="337" key="git4idea.merge.GitPullDialog/0.23.1920.1032@0.23.1920.1032" timestamp="1582710529776" />
+    <state x="771" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.2560.1383@0.25.2560.1383" timestamp="1608373246912" />
   </component>
 </project>
