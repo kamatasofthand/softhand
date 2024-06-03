@@ -1,0 +1,267 @@
+/* global.css */
+/* 自定义css*/
+.bg-none{/* 背景透明*/
+    background-color: rgba(255, 255, 255, 0);
+}
+html{
+    margin: 0;
+    padding: 0;
+}
+body {
+    color: #452803;
+    font-family: "Times New Roman", "Noto Serif JP", "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "HG明朝E", "MS PMincho", "MS Mincho", serif;
+
+}
+.nav-side li{
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom: solid silver;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #452803;
+}
+.nav-side li:first-child {
+    font-weight: bold; /* 设置文字粗体 */
+    font-size: 20px;
+    /* 其他样式 */
+}
+a {
+    color: #452803;
+    text-decoration: none;
+}
+
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.8;
+}
+.btn {
+    margin: 10px;
+    background-color: #41290B;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* 横方向の中央揃え */
+    height: 50px;
+    border-radius: 50px;
+    font-size: 23px;
+    font-weight: bold;
+    padding: 0;
+    width: 30%;
+
+
+}
+.logo{
+    height: 120px;
+    width: 120px;
+}
+
+
+.nav-link {
+    font-size: 20px;
+}
+
+.nav-foot {
+    font-size: 20px;
+    color: white;
+}
+
+.nav-item {
+    border-bottom: 1px solid transparent; /* 初始状态下隐藏下边框 */
+    transition: border-color 0.3s ease; /* 添加过渡效果 */
+    margin-left: 15px;
+    font-weight: bold;
+}
+
+.nav-item:hover {
+    border-bottom-color: black; /* 当鼠标悬停时显示下边框 */
+}
+
+.page-title {
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+    height: 250px;
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+
+.book {
+    background-color: #41290B;
+    height: 60px;
+    border: solid white;
+
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+}
+
+.book a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.copyright {
+    color: white;
+    margin-bottom: 100px;
+}
+
+.copyright p {
+    font-size: 1.2em;
+    color: white;
+}
+.navbar-collapse {
+    z-index: 1000; /* 下拉菜单最前面显示*/
+}
+
+
+.dropdown-menu {
+    background-color: #41290B;
+    background-color: rgba(65, 41, 11, 0.9);
+}
+
+.dropdown-menu a {
+    color: white;
+    font-size: 20px;
+
+}
+
+.block {
+    border: none;
+
+}
+
+.table {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.table tr {
+    border-bottom: solid #41290B;
+    font-size: 25px;
+    height: 80px;
+    color:#41290B ;
+
+}
+.table td{
+    vertical-align: bottom;
+}
+.footer{
+    margin-top: 400px;
+}
+.footer a:hover{
+    color: white;
+}
+@media (max-width: 1000px) {
+    /* 当屏幕宽度小于等于 768px 时应用以下样式 */
+
+    h2 {
+        font-size: 50px;
+    }
+
+    h3 {
+        font-size: 30px;
+        font-weight: bold;
+    }
+    p {
+        font-size:35px;
+
+    }
+    .logo{
+        height: 150px;
+        width: 150px;
+    }
+    .navbar-toggler-icon{
+        width: 2.5em;
+        height: 2.5em;
+    }
+
+    .row .btn {
+        height: 100px;
+        font-size: 35px;
+        font-weight: bold;
+        width: 70%;
+    }
+
+
+    .navbar-nav .nav-link{
+        margin:30px 0  30px 0;
+        border-bottom: solid white;
+    }
+    .nav-link {
+        font-size: 40px;
+        color: white;
+
+    }
+
+    .navbar-toggler-icon {
+        font-size: 2.5rem; /* 调整汉堡菜单图标的大小 */
+    }
+
+    .nav-foot {
+        font-size: 35px;
+        color: white;
+    }
+    .nav-side{
+        display: none;
+    }
+
+    .book {
+        height: 80px;
+        display: flex;
+        justify-content: center; /* 水平居中 */
+        align-items: center; /* 垂直居中 */
+    }
+
+    .dropdown-menu a {
+        font-size: 40px;
+
+    }
+    .home{
+        color: white;
+    }
+
+    .navbar-collapse {
+        background-color: #41290B;
+        background-color: rgba(65, 41, 11, 0.9);
+    }
+
+
+    .book a {
+
+
+        font-size: 2.5em;
+
+    }
+    .table tr {
+        border-bottom: solid #41290B;
+        font-size: 30px;
+    }
+
+    .footer{
+        margin-top: 200px;
+    }
+
+
+
+}
