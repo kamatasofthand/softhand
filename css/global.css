@@ -68,7 +68,7 @@ p {
 }
 .logo{
     height: 120px;
-    width: 120px;
+    width: 300px;
 }
 
 
@@ -189,7 +189,7 @@ p {
     }
     .logo{
         height: 150px;
-        width: 150px;
+        width: 280px;
     }
     .navbar-toggler-icon{
         width: 2.5em;
@@ -227,7 +227,7 @@ p {
     }
 
     .book {
-        height: 80px;
+        height: 150px;
         display: flex;
         justify-content: center; /* 水平居中 */
         align-items: center; /* 垂直居中 */
