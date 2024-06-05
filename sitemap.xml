@@ -1,61 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 7 Generated at: 2024-06-03 20:52:43 -->
+
   <url>
-    <loc>http://www.softhand.jp/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.softhand.jp/</loc>
+    <priority>1.00</priority>
   </url>
+
   <url>
-    <loc>http://www.softhand.jp/menu.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.softhand.jp/index.html</loc>
+    <priority>1.00</priority>
   </url>
+
   <url>
-    <loc>http://www.softhand.jp/shinyokohama.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.softhand.jp/pages/about.html</loc>
+    <priority>1.00</priority>
   </url>
+
   <url>
-    <loc>http://www.softhand.jp/kamata.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.softhand.jp/pages/shinyokohama.html</loc>
+    <priority>1.00</priority>
   </url>
+
   <url>
-    <loc>http://www.softhand.jp/index.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.softhand.jp/pages/menu.html</loc>
+    <priority>1.00</priority>
   </url>
+
   <url>
-    <loc>http://www.softhand.jp/kamata-shop.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.softhand.jp/pages/customer.html</loc>
+    <priority>1.00</priority>
   </url>
+
   <url>
-    <loc>http://www.softhand.jp/kamata-qa.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.softhand.jp/pages/recruit.html</loc>
+    <priority>1.00</priority>
   </url>
-  <url>
-    <loc>http://www.softhand.jp/shinyokohama-qa.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>http://www.softhand.jp/kamata-menu.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>http://www.softhand.jp/shinyokohama-shop.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>http://www.softhand.jp/shinyokohama-menu.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+
 </urlset>
-<!--<guid value="715e8666-2bd7-47fd-a731-6cfee5cf3203" />-->
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
