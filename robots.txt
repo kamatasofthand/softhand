@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
-Allow: /sitemap.htm
-Sitemap: http://www.softhand.jp/sitemap.xml
+Disallow:
+
+Sitemap: https://www.softhand.jp/sitemap.xml
