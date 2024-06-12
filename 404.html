@@ -2,6 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="5;url=/">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>404 ページが見つかりません</title>
   <style>
@@ -22,18 +23,5 @@
   <h1>404 - ページが見つかりません</h1>
   <p>申し訳ありませんが、リクエストされたページは見つかりませんでした。</p>
   <p>5秒後にトップページに自動的にリダイレクトされます。</p>
-
-  <script>
-    // カウントダウンで自動的にトップページにリダイレクト
-    var countdown = 5;
-    var countdownElement = document.getElementById("countdown");
-    setInterval(function() {
-      countdown--;
-      countdownElement.textContent = countdown;
-      if (countdown <= 0) {
-        window.location.href = "/"; // トップページにリダイレクト
-      }
-    }, 1000);
-  </script>
 </body>
 </html>
