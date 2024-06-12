@@ -10,6 +10,8 @@ RewriteRule ^(.*)/$ $1/index.html [L]
   RewriteRule ^([^/]+)/?$ $1.html [L]
 </IfModule>
 
+#重定向
+Redirect 301 /shop-shinyokohama /pages/shinyokohama
 
 
 # Apache Server Configs v3.2.1 | MIT License
