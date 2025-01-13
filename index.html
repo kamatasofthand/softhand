@@ -18,7 +18,8 @@
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-0C6HGDH3FK');
+        gtag('config', 'G-0C6HGDH3FK'); // Google Analytics
+        gtag('config', 'AW-960491603'); // Google Ads 转化 ID
     </script>
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -27,7 +28,12 @@
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-5FKQP983');</script>
     <!-- End Google Tag Manager -->
-
+        <!-- Event snippet for 网页浏览 conversion page -->
+    <script>
+        gtag('event', 'conversion', {
+            'send_to': 'AW-960491603/z46RCJD40IMaENPg_8kD'
+        });
+    </script>
     <style>
         body {
             background-image: url('/image/bg_body.jpg');
