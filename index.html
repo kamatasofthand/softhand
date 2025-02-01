@@ -3,37 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <title>てもみサロン　ペパームーン新横浜店｜駅チカの落ち着いたリラクゼーションで本格的な施術をご提供します！</title>
+
+    <!--    <meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+
     <meta name="keywords" content="ペパームーン新横浜店,リラクゼーション,マッサージ,新横浜駅　マッサージ,川崎,蒲田">
-    <meta name="description"  content="てもみサロン ペパームーン新横浜店のホームページへようこそ。当店は、本格的な台湾式マッサージを手頃な価格で提供しております。新横浜駅本店のほか、川崎や蒲田にも店舗を展開しております。身体のこりやお悩みがある方は、ぜひお越しください。" />
+    <meta name="description"
+          content="てもみサロン ペパームーン新横浜店のホームページへようこそ。当店は、本格的な台湾式マッサージを手頃な価格で提供しております。新横浜駅本店のほか、川崎や蒲田にも店舗を展開しております。身体のこりやお悩みがある方は、ぜひお越しください。"/>
     <link rel="icon" href="/image/logo1.png" type="image/png">
-  <link rel="canonical" href="https://www.softhand.jp/" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="/css/global.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-0C6HGDH3FK"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
-        gtag('config', 'G-0C6HGDH3FK'); // Google Analytics
-        gtag('config', 'AW-960491603'); // Google Ads 转化 ID
+        gtag('config', 'G-0C6HGDH3FK');
     </script>
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-5FKQP983');</script>
-    <!-- End Google Tag Manager -->
-        <!-- Event snippet for 网页浏览 conversion page -->
-    <script>
-        gtag('event', 'conversion', {
-            'send_to': 'AW-960491603/z46RCJD40IMaENPg_8kD'
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
         });
-    </script>
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-5FKQP983');</script>
+    <!-- End Google Tag Manager -->
+
     <style>
         body {
             background-image: url('/image/bg_body.jpg');
@@ -72,7 +82,7 @@
 
         .block {
             border: solid #452803 3px;
-            height: 90%;
+            height: 95%;
             width: 98%;
             position: absolute;
             left: 1%;
@@ -114,6 +124,20 @@
             background-image: url('/image/bg_sec01.jpg');
         }
 
+        /*后加*/
+        /*底部预约按钮*/
+        .fixed-bottom .row .btn {
+            width: 50%;
+            background-color: #41290B;
+            height: 80px;
+
+        }
+
+        .fixed-bottom .row .btn a {
+            color: white;
+        }
+        /*后加结束*/
+
 
         @media (max-width: 1000px) {
             /*当屏幕宽度小于等于 768px 时应用以下样式 */
@@ -140,7 +164,7 @@
                 top: 5%;
                 left: 5%;
                 max-width: 90%;
-                max-height: 90%;
+                max-height: 95%;
                 background-color: rgba(255, 255, 255, 0.7);
                 font-weight: bold;
 
@@ -154,8 +178,9 @@
             .btn {
                 margin-bottom: 5%;
                 max-width: 550px;
-                height: 80px;
+                height: 100px;
                 font-size: 2rem;
+
             }
 
 
@@ -172,7 +197,10 @@
             .bg-img {
                 background-image: none;
             }
+            .fixed-bottom .row .btn {
+                height: 100px;
 
+            }
         }
     </style>
 
@@ -181,15 +209,25 @@
 <body>
 <header>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FKQP983"
-                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FKQP983"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
     <!-- End Google Tag Manager (noscript) -->
+    <!--头部nav 幻灯片等-->
+
+
+    <!--end头部nav 幻灯片等-->
+
+
     <!-- 头部 nav等-->
     <nav class="navbar navbar-expand-lg bg-body-tertiary ps-5 pe-5 ps-md-0 pe-md-0 "
          style="background-image: url('image/bg_body.jpg');">
         <div class="container-fluid" id="top">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand " href="index.html">
                 <img src="/image/logo.png" alt="Logo" class="d-inline-block align-text-top logo ">
+                <p class="d-flex flex-column justify-content-center align-items-center fs-3 ">
+                    リラクゼーション＆エステサロン</p>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
                     aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -301,9 +339,12 @@
                 <div class="card-body text-center">
                     <h2 class="card-title">ごあいさつ</h2>
                     <p class="card-text text-start ">
+                        人間の体と心は自然界の一部であり、
+                    <p class="card-text text-start ">
                         人間の体と心は自然界の一部であり、そのリズムが乱れると自然な調和を取り戻すことが重要です。<br>
                         弊サロンは経絡を重視し、リラクゼーション、エステのメニューを通じて乱れたリズムを整えています。<br>
                         新横浜駅をはじめ、各店舗でサービスを提供しており、アクセスの良さとリーズナブルな価格が自慢です。本格的な台湾マッサージの技術を心ゆくまでご堪能ください。
+                    </p>
                     </p>
                     <div class="d-flex justify-content-center"><a href="pages/about.html"
                                                                   class="btn"><span>詳しく見る</span></a></div>
@@ -311,69 +352,11 @@
             </div>
         </div>
     </section>
-    <section style="background-image: url('/image/salon_bg.png'); background-size: cover;">
-        <!--サロン基本情報-->
-        <div class="shop">
-            <div class="row justify-content-center  ">
-                <div class="col-12 text-center mt-5">
-                    <h2><strong>サロン基本情報（予約）</strong></h2>
-                </div>
-                <div class="col-12 text-center">
-                    <img src="/image/h2.png" alt="...">
-                </div>
-            </div>
 
-            <div class="row row-cols-1 row-cols-md-2 g-4 mt-4">
-                <div class="col">
-                    <div class="card">
-                        <a href="pages/shinyokohama.html">
-                            <img src="/image/shop-shinyokohama.png" class="card-img-top " alt="...">
-                        </a>
 
-                        <div class="card-body">
-                            <h3 class="card-title text-center"><strong>ペパームーン　<br>新横浜店</strong></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card">
-                        <a href="pages/kawasaki.html">
-                            <img src="/image/shop-kawasaki.png" class="card-img-top" alt="...">
-                        </a>
-
-                        <div class="card-body">
-                            <h3 class="card-title text-center"><strong>ペパームーン<br>川崎西口店 </strong></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card">
-                        <a href="pages/kawasaki9f.html">
-                            <img src="/image/shop-kawasaki9f.png" class="card-img-top " alt="...">
-                        </a>
-
-                        <div class="card-body">
-                            <h3 class="card-title text-center"><strong>Paper Moon Beauty　<br>川崎西口店</strong></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card">
-                        <a href="pages/kamata.html">
-                            <img src="/image/shop-kamata.png" class="card-img-top " alt="...">
-                        </a>
-
-                        <div class="card-body">
-                            <h3 class="card-title text-center"><strong>ソフトハンド　<br>蒲田西口店</strong></h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
     <section>
         <!--メニュー、相談口、求人案内-->
-        <div class="border-bottom">
+        <div class="border-bottom mt-5">
 
             <div class="row p-lg-0 p-md-5">
                 <div class="d-lg-none mb-md-3">
@@ -484,6 +467,67 @@
         </div>
     </section>
 
+    <!--サロン基本情報-->
+    <section style="background-image: url('/image/salon_bg.png'); background-size: cover;">
+        <div class="shop">
+            <div class="row justify-content-center  ">
+                <div class="col-12 text-center mt-5">
+                    <h2><strong>サロン基本情報（予約）</strong></h2>
+                </div>
+                <div class="col-12 text-center">
+                    <img src="/image/h2.png" alt="...">
+                </div>
+            </div>
+
+            <div class="row row-cols-1 row-cols-md-2 g-4 mt-4">
+                <div class="col">
+                    <div class="card">
+                        <a href="pages/shinyokohama.html">
+                            <img src="/image/shop-shinyokohama.png" class="card-img-top " alt="...">
+                        </a>
+
+                        <div class="card-body">
+                            <h3 class="card-title text-center"><strong>ペパームーン　<br>新横浜店</strong></h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card">
+                        <a href="pages/kawasaki.html">
+                            <img src="/image/shop-kawasaki.png" class="card-img-top" alt="...">
+                        </a>
+
+                        <div class="card-body">
+                            <h3 class="card-title text-center"><strong>ペパームーン<br>川崎西口店 </strong></h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card">
+                        <a href="pages/kawasaki9f.html">
+                            <img src="/image/shop-kawasaki9f.png" class="card-img-top " alt="...">
+                        </a>
+
+                        <div class="card-body">
+                            <h3 class="card-title text-center"><strong>Paper Moon Beauty　<br>川崎西口店</strong></h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card">
+                        <a href="pages/kamata.html">
+                            <img src="/image/shop-kamata.png" class="card-img-top " alt="...">
+                        </a>
+
+                        <div class="card-body">
+                            <h3 class="card-title text-center"><strong>ソフトハンド　<br>蒲田西口店</strong></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section class="bg-white">
         <!--サロン基本情報-->
         <div class="container pb-5 ">
@@ -537,16 +581,28 @@
         </li>
 
     </ul>
+    <!--    后加-->
+    <div class="fixed-bottom text-center">
 
-    <div class="book fixed-bottom">
-
-
-        <div class="row">
-            <div class="col col-12 text-center">
-                <div><a href="pages/about.html">各 店 舗 ご 予 約</a></div>
+        <div class="row justify-content-center">
+            <div class="col col-6 text-center btn">
+                <a href="http://b.hpr.jp/kr/hp/H000282568" id="book" target="_blank">ネットで予約する</a>
+            </div>
+            <div class="col col-6 text-center btn bg-success">
+                <a href="tel:045-473-6968" id="call">電話で予約する</a>
             </div>
         </div>
+
     </div>
+    <!--    后加结束-->
+    <!--    <div class="book fixed-bottom">-->
+
+    <!--        <div class="row">-->
+    <!--            <div class="col col-12 text-center">-->
+    <!--                <div><a href="pages/about.html">各 店 舗 ご 予 約</a></div>-->
+    <!--            </div>-->
+    <!--        </div>-->
+    <!--    </div>-->
 
     <div class="container">
         <div class="row">
