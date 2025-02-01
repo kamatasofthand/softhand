@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,26 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="hyper">
-      <change afterPath="$PROJECT_DIR$/image/ad/a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/ad/b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/ad/c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/ad/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/customer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/kamata.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kamata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/kawasaki.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kawasaki.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/kawasaki9f.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kawasaki9f.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/recruit.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/recruit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/shinyokohama.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shinyokohama.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rss.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rss.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+    <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="广告追踪">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +90,7 @@
       <workItem from="1600850079447" duration="2092000" />
       <workItem from="1608370298965" duration="3313000" />
       <workItem from="1609126650400" duration="287000" />
-      <workItem from="1738425442439" duration="332000" />
+      <workItem from="1738425442439" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="jia">
       <created>1582125695952</created>
@@ -401,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1608373740037</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="广告追踪">
+      <option name="closed" value="true" />
+      <created>1738426041819</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1738426041819</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,7 +416,8 @@
     <MESSAGE value="你好" />
     <MESSAGE value="11" />
     <MESSAGE value="hyper" />
-    <option name="LAST_COMMIT_MESSAGE" value="hyper" />
+    <MESSAGE value="广告追踪" />
+    <option name="LAST_COMMIT_MESSAGE" value="广告追踪" />
   </component>
   <component name="WindowStateProjectService">
     <state x="490" y="175" key="SettingsEditor" timestamp="1608373162860">
