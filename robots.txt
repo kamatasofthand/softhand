@@ -1,4 +1,18 @@
 User-agent: *
-Disallow:
+Disallow: /?ak_action=accept_mobile
+Disallow: /shinyokohama
+Disallow: /shinyokohama.html
+Disallow: /shinyokohama-menu
+Disallow: /shinyokohama-menu.html
+Disallow: /shinyokohama-qa
+Disallow: /shinyokohama-qa.html
+Disallow: /shinyokohama-shop
+Disallow: /shinyokohama-shop.html
+Disallow: /kamata
+Disallow: /kamata.html
+Disallow: /menu
+Disallow: /menu.html
+Disallow: /company
+Disallow: /company.html
 
 Sitemap: https://www.softhand.jp/sitemap.xml
