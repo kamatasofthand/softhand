@@ -23,6 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="广告追踪">
+      <change afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +39,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="1Y1xdgg5hMxa0uGzuflkEmW4xV5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,7 +52,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/longe/Desktop/softhand/image",
+    "last_opened_file_path": "/Users/longe/Desktop/softhand",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,9 +63,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$/css" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
@@ -90,7 +92,10 @@
       <workItem from="1600850079447" duration="2092000" />
       <workItem from="1608370298965" duration="3313000" />
       <workItem from="1609126650400" duration="287000" />
-      <workItem from="1738425442439" duration="698000" />
+      <workItem from="1738425442439" duration="2731000" />
+      <workItem from="1739609671664" duration="200000" />
+      <workItem from="1740134113998" duration="550000" />
+      <workItem from="1753180106637" duration="413000" />
     </task>
     <task id="LOCAL-00001" summary="jia">
       <created>1582125695952</created>
@@ -394,7 +399,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738426041819</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="广告追踪">
+      <option name="closed" value="true" />
+      <created>1738426233283</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1738426233283</updated>
+    </task>
+    <task id="LOCAL-00045" summary="广告追踪">
+      <option name="closed" value="true" />
+      <created>1738463935395</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1738463935395</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,19 +439,5 @@
     <MESSAGE value="hyper" />
     <MESSAGE value="广告追踪" />
     <option name="LAST_COMMIT_MESSAGE" value="广告追踪" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="490" y="175" key="SettingsEditor" timestamp="1608373162860">
-      <screen x="0" y="25" width="2560" height="1383" />
-    </state>
-    <state x="490" y="175" key="SettingsEditor/0.25.2560.1383@0.25.2560.1383" timestamp="1608373162860" />
-    <state x="580" y="278" key="Vcs.Push.Dialog.v2" timestamp="1608373741862">
-      <screen x="0" y="25" width="2560" height="1383" />
-    </state>
-    <state x="580" y="278" key="Vcs.Push.Dialog.v2/0.25.2560.1383@0.25.2560.1383" timestamp="1608373741862" />
-    <state x="771" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608373246912">
-      <screen x="0" y="25" width="2560" height="1383" />
-    </state>
-    <state x="771" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.2560.1383@0.25.2560.1383" timestamp="1608373246912" />
   </component>
 </project>
