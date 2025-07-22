@@ -22,10 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="广告追踪">
-      <change afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/menu.html" afterDir="false" />
+    <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="上传英文版">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +94,7 @@
       <workItem from="1738425442439" duration="2731000" />
       <workItem from="1739609671664" duration="200000" />
       <workItem from="1740134113998" duration="550000" />
-      <workItem from="1753180106637" duration="413000" />
+      <workItem from="1753180106637" duration="1000000" />
     </task>
     <task id="LOCAL-00001" summary="jia">
       <created>1582125695952</created>
@@ -415,7 +414,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738463935395</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="上传英文版">
+      <option name="closed" value="true" />
+      <created>1753180561679</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1753180561679</updated>
+    </task>
+    <task id="LOCAL-00047" summary="上传英文版">
+      <option name="closed" value="true" />
+      <created>1753180634210</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1753180634210</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,6 +453,7 @@
     <MESSAGE value="11" />
     <MESSAGE value="hyper" />
     <MESSAGE value="广告追踪" />
-    <option name="LAST_COMMIT_MESSAGE" value="广告追踪" />
+    <MESSAGE value="上传英文版" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传英文版" />
   </component>
 </project>
