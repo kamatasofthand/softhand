@@ -24,7 +24,13 @@
   <component name="ChangeListManager">
     <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="上传info页面">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ad/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ad/menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/shinyokohama.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shinyokohama.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +110,9 @@
       <workItem from="1740134113998" duration="550000" />
       <workItem from="1753180106637" duration="1306000" />
       <workItem from="1755828482059" duration="1063000" />
-      <workItem from="1756961559865" duration="435000" />
+      <workItem from="1756961559865" duration="710000" />
+      <workItem from="1760791900065" duration="115000" />
+      <workItem from="1763625212375" duration="250000" />
     </task>
     <task id="LOCAL-00001" summary="jia">
       <created>1582125695952</created>
@@ -400,14 +408,6 @@
       <option name="project" value="LOCAL" />
       <updated>1608373740037</updated>
     </task>
-    <task id="LOCAL-00045" summary="广告追踪">
-      <option name="closed" value="true" />
-      <created>1738463935395</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1738463935395</updated>
-    </task>
     <task id="LOCAL-00046" summary="上传英文版">
       <option name="closed" value="true" />
       <created>1753180561679</created>
@@ -456,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755828692307</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="上传info页面">
+      <option name="closed" value="true" />
+      <created>1756962024502</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1756962024503</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
