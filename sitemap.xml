@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Created By http://www.zhetao.com/sitemapcreator, URLs: 9 Generated at: 2025-02-15 17:13:25 -->
+  <!-- Updated manually, URLs: 10 Updated at: 2026-07-03 13:23:06 JST -->
 
   <url>
     <loc>https://www.softhand.jp/</loc>
@@ -44,6 +44,11 @@
 
   <url>
     <loc>https://www.softhand.jp/pages/kamata.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.softhand.jp/pages/centerminami.html</loc>
     <priority>0.80</priority>
   </url>
 
