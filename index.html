@@ -2,6 +2,7 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
+
     <title>てもみサロン　ペパームーン新横浜店｜駅チカの落ち着いたリラクゼーションで本格的な施術をご提供します！</title>
 <meta name="keywords" content="ペパームーン新横浜店,てもみサロンペパームーン センター南店,リラクゼーション,マッサージ,新横浜駅　マッサージ,センター南駅　マッサージ,川崎,蒲田">
     <meta name="description"
@@ -622,80 +623,140 @@
     </div>
   </div>
 
-
-  <!-- ============================= -->
-  <!-- 弹窗专用样式 -->
-  <!-- ============================= -->
   <style>
-    /* 弹窗整体不要太宽 */
+    /* 预约弹窗整体 */
+    /* ============================= */
+
     .shop-select-modal .modal-dialog {
-      max-width: 420px;
-      margin-left: auto;
-      margin-right: auto;
+      width: 90% !important;
+      max-width: 90% !important;
+
+      /* 弹窗整体往下 */
+      margin-top: 45vh !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
     }
 
+
+    /* 白色弹窗主体 */
     .shop-select-modal .modal-content {
-      border-radius: 12px;
+      width: 100% !important;
+
+      /* 增加弹窗高度 */
+      min-height: 550px;
+
+      border-radius: 14px;
     }
 
+
+    /* 顶部标题区域 */
     .shop-select-modal .modal-header {
-      padding: 16px 20px;
+      padding: 25px 30px;
     }
 
+
+    /* 标题 */
     .shop-select-modal .modal-title {
-      font-size: 20px;
+      font-size: 32px !important;
       font-weight: bold;
+      line-height: 1.4;
     }
 
+
+    /* 中间内容区域 */
     .shop-select-modal .modal-body {
-      padding: 20px;
+      padding: 35px 30px 40px;
     }
 
-    .shop-select-modal .shop-select-text {
-      font-size: 15px;
-      margin-bottom: 16px;
-    }
 
-    /* 重点：覆盖你网站原来的超大 .btn */
+    /* ============================= */
+    /* 店铺选择按钮 */
+    /* ============================= */
+
     .shop-select-modal .shop-select-btn {
       display: flex;
       align-items: center;
       justify-content: center;
 
-      width: 100%;
-      height: auto !important;
-      min-height: 55px;
+      /* 按钮占弹窗80% */
+      width: 80% !important;
+      max-width: none !important;
 
-      margin: 0 0 12px 0 !important;
+      height: auto !important;
+      min-height: 80px;
+
+      /* 左右自动 = 按钮居中 */
+      margin: 0 auto 20px auto !important;
+
       padding: 10px 15px !important;
 
-      font-size: 16px !important;
+      font-size: 40px !important;
       line-height: 1.5;
 
       border-radius: 8px;
       text-decoration: none;
     }
 
+
     .shop-select-modal .shop-select-btn:last-child {
       margin-bottom: 0 !important;
     }
 
+
+    /* ============================= */
+    /* 弹窗出现后，网页背景加深 */
+    /* ============================= */
+
+    .modal-backdrop.show {
+      opacity: 0.75 !important;
+    }
+
     /* 手机 */
+
     @media (max-width: 576px) {
 
       .shop-select-modal .modal-dialog {
-        max-width: calc(100% - 40px);
-        margin-left: auto;
-        margin-right: auto;
+        width: 90vw !important;
+        max-width: 90vw !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+      }
+
+      .shop-select-modal .modal-content {
+        width: 100% !important;
+        border-radius: 14px;
+      }
+
+      .shop-select-modal .modal-header {
+        padding: 20px 22px;
       }
 
       .shop-select-modal .modal-title {
-        font-size: 18px;
+        font-size: 22px !important;
+      }
+
+      .shop-select-modal .modal-body {
+        padding: 24px 22px;
+      }
+
+      .shop-select-modal .shop-select-text {
+        font-size: 18px !important;
+        margin-bottom: 20px;
       }
 
       .shop-select-modal .shop-select-btn {
-        min-height: 52px;
-        font-size: 15px !important;
+        width: 100% !important;
+        max-width: none !important;
+        height: 68px !important;
+        min-height: 68px !important;
+        margin: 0 0 14px 0 !important;
+        padding: 12px 15px !important;
+        font-size: 19px !important;
+        border-radius: 10px;
+      }
+
+      .shop-select-modal .shop-select-btn:last-child {
+        margin-bottom: 0 !important;
       }
     }
   </style>
@@ -710,7 +771,7 @@
        aria-labelledby="bookingModalLabel"
        aria-hidden="true">
 
-    <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-dialog">
 
       <div class="modal-content">
 
@@ -729,10 +790,6 @@
         </div>
 
         <div class="modal-body text-center">
-
-          <p class="shop-select-text">
-            ご希望の店舗をお選びください
-          </p>
 
           <!-- 新横浜 -->
           <a href="http://b.hpr.jp/kr/hp/H000282568"
@@ -768,7 +825,7 @@
        aria-labelledby="phoneModalLabel"
        aria-hidden="true">
 
-    <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-dialog">
 
       <div class="modal-content">
 
@@ -787,10 +844,6 @@
         </div>
 
         <div class="modal-body text-center">
-
-          <p class="shop-select-text">
-            ご希望の店舗をお選びください
-          </p>
 
           <!-- 新横浜 -->
           <a href="tel:045-624-9825"
