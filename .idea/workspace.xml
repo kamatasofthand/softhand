@@ -23,14 +23,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="上传info页面">
+      <change afterPath="$PROJECT_DIR$/image/shop-centerminami.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/ad/a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/ad/b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/ad/c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/shop-shinyokohama.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/shop-shinyokohama.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ad/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ad/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ad/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/centerminami.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/centerminami.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/customer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/kamata.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kamata.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/kawasaki.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kawasaki.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/kawasaki9f.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kawasaki9f.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/recruit.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/recruit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/shinyokohama.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shinyokohama.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,40 +60,126 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kamatasofthand&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kamatasofthand/softhand.git&quot;,
+    &quot;accountId&quot;: &quot;a7d0bf13-c9ec-48e0-8edb-c5d882fd8a95&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.1632547508870064E-137" />
+      <entry key="S5" value="1.717345562614904E-55" />
+      <entry key="S10" value="5.342842232658872E-28" />
+      <entry key="S30" value="2.4116538709601347E-9" />
+      <entry key="S60" value="1.3527283635562026E-4" />
+      <entry key="M2" value="0.03461708572877095" />
+      <entry key="M5" value="1.0491926219323946" />
+      <entry key="M10" value="3.3640724477948107" />
+      <entry key="M15" value="4.981402128213377" />
+      <entry key="M30" value="7.393360802252359" />
+      <entry key="H1" value="9.015322531382324" />
+      <entry key="H2" value="9.957551132433926" />
+      <entry key="H4" value="10.465595729997982" />
+      <entry key="D1" value="10.909043899738638" />
+      <entry key="W1" value="10.986959238390908" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000446976613" />
+      <entry key="S60" value="1.000239102960302" />
+      <entry key="M2" value="1.0199259436062278" />
+      <entry key="M5" value="1.3081224996382113" />
+      <entry key="M10" value="1.7813330085414596" />
+      <entry key="M15" value="2.0676866945573487" />
+      <entry key="M30" value="2.460521506687532" />
+      <entry key="H1" value="2.7088804605794436" />
+      <entry key="H2" value="2.848657740489286" />
+      <entry key="H4" value="2.9228246137568683" />
+      <entry key="D1" value="2.9869233385221077" />
+      <entry key="W1" value="2.998126593497587" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0012708416557050126" />
+      <entry key="MS500" value="0.2635228558226844" />
+      <entry key="S2" value="0.7164808251865499" />
+      <entry key="S5" value="0.8751486533250812" />
+      <entry key="S10" value="0.9354938018635298" />
+      <entry key="S30" value="0.9780183237063675" />
+      <entry key="S60" value="0.9893170992261657" />
+      <entry key="M2" value="1.0487372040666074" />
+      <entry key="M5" value="2.3531404954021" />
+      <entry key="M10" value="5.141604134882554" />
+      <entry key="M15" value="7.045819417511471" />
+      <entry key="M30" value="9.851723616038539" />
+      <entry key="H1" value="11.722953027346641" />
+      <entry key="H2" value="12.805535121476915" />
+      <entry key="H4" value="13.388070424945445" />
+      <entry key="D1" value="13.895907030295332" />
+      <entry key="W1" value="13.985077183479556" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="1Y1xdgg5hMxa0uGzuflkEmW4xV5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/longe/Desktop/softhand&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/longe/Desktop/softhand/image",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/image" />
-      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.24374.125" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -113,6 +211,9 @@
       <workItem from="1756961559865" duration="710000" />
       <workItem from="1760791900065" duration="115000" />
       <workItem from="1763625212375" duration="250000" />
+      <workItem from="1782989622369" duration="3007000" />
+      <workItem from="1788066226798" duration="225000" />
+      <workItem from="1788067356958" duration="1518000" />
     </task>
     <task id="LOCAL-00001" summary="jia">
       <created>1582125695952</created>
