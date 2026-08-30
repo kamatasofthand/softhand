@@ -59,6 +59,87 @@
             color: white;
         }
         /*后加结束*/
+        /* 预约弹窗整体 */
+        /* ============================= */
+
+        .shop-select-modal .modal-dialog {
+          width: 90% !important;
+          max-width: 90% !important;
+
+          /* 弹窗整体往下 */
+          margin-top: 45vh !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+
+
+        /* 白色弹窗主体 */
+        .shop-select-modal .modal-content {
+          width: 100% !important;
+
+          /* 增加弹窗高度 */
+          min-height: 550px;
+
+          border-radius: 14px;
+        }
+
+
+        /* 顶部标题区域 */
+        .shop-select-modal .modal-header {
+          padding: 25px 30px;
+        }
+
+
+        /* 标题 */
+        .shop-select-modal .modal-title {
+          font-size: 32px !important;
+          font-weight: bold;
+          line-height: 1.4;
+        }
+
+
+        /* 中间内容区域 */
+        .shop-select-modal .modal-body {
+          padding: 35px 30px 40px;
+
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+        }
+
+
+        /* ============================= */
+        /* 店铺选择按钮 */
+        /* ============================= */
+
+        .shop-select-modal .shop-select-btn {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+
+          /* 按钮占弹窗80% */
+          width: 80% !important;
+          max-width: none !important;
+
+          height: auto !important;
+          min-height: 80px;
+
+          /* 左右自动 = 按钮居中 */
+          margin: 0 auto 20px auto !important;
+
+          padding: 10px 15px !important;
+
+          font-size: 40px !important;
+          line-height: 1.5;
+
+          border-radius: 8px;
+          text-decoration: none;
+        }
+
+
+        .shop-select-modal .shop-select-btn:last-child {
+          margin-bottom: 0 !important;
+        }
 
 
         @media (max-width: 1000px) {
@@ -544,27 +625,135 @@
         </li>
 
     </ul>
-    <div class="fixed-bottom text-center">
+  <!-- ============================= -->
+  <div class="fixed-bottom text-center">
+    <div class="row justify-content-center">
 
-        <div class="row justify-content-center">
-            <div class="col col-6 text-center btn">
-                <a href="http://b.hpr.jp/kr/hp/H000282568" id="book" target="_blank">ネットで予約する</a>
-            </div>
-            <div class="col col-6 text-center btn bg-success">
-                <a href="tel:045-624-9825" id="call">電話で予約する</a>
-            </div>
-        </div>
+      <div class="col col-6 text-center btn">
+        <a href="#"
+           id="book"
+           data-bs-toggle="modal"
+           data-bs-target="#bookingModal">
+          ネットで予約する
+        </a>
+      </div>
+
+      <div class="col col-6 text-center btn bg-success">
+        <a href="#"
+           id="call"
+           data-bs-toggle="modal"
+           data-bs-target="#phoneModal">
+          電話で予約する
+        </a>
+      </div>
 
     </div>
-<!--    <div class="book fixed-bottom">-->
+  </div>
 
 
-<!--        <div class="row">-->
-<!--            <div class="col col-12 text-center">-->
-<!--                <div><a href="about.html">各 店 舗 ご 予 約</a></div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
+  <!-- ============================= -->
+  <!-- 网络预约 -->
+  <!-- ============================= -->
+  <div class="modal fade shop-select-modal"
+       id="bookingModal"
+       tabindex="-1"
+       aria-labelledby="bookingModalLabel"
+       aria-hidden="true">
+
+    <div class="modal-dialog">
+
+      <div class="modal-content">
+
+        <div class="modal-header">
+
+          <h5 class="modal-title" id="bookingModalLabel">
+            ご予約店舗をお選びください
+          </h5>
+
+          <button type="button"
+                  class="btn-close"
+                  data-bs-dismiss="modal"
+                  aria-label="閉じる">
+          </button>
+
+        </div>
+
+        <div class="modal-body text-center">
+
+          <!-- 新横浜 -->
+          <a href="http://b.hpr.jp/kr/hp/H000282568"
+             target="_blank"
+             rel="noopener noreferrer"
+             class="btn btn-dark shop-select-btn">
+
+            ペパームーン 新横浜店
+          </a>
+
+          <!-- センター南 -->
+          <a href="http://b.hpr.jp/kr/hp/H000821326"
+             target="_blank"
+             rel="noopener noreferrer"
+             class="btn btn-dark shop-select-btn">
+
+            ペパームーン センター南店
+          </a>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+  <!-- ============================= -->
+  <!-- 电话预约 -->
+  <!-- ============================= -->
+  <div class="modal fade shop-select-modal"
+       id="phoneModal"
+       tabindex="-1"
+       aria-labelledby="phoneModalLabel"
+       aria-hidden="true">
+
+    <div class="modal-dialog">
+
+      <div class="modal-content">
+
+        <div class="modal-header">
+
+          <h5 class="modal-title" id="phoneModalLabel">
+            お電話する店舗をお選びください
+          </h5>
+
+          <button type="button"
+                  class="btn-close"
+                  data-bs-dismiss="modal"
+                  aria-label="閉じる">
+          </button>
+
+        </div>
+
+        <div class="modal-body text-center">
+
+          <!-- 新横浜 -->
+          <a href="tel:045-624-9825"
+             class="btn btn-success shop-select-btn">
+
+            新横浜店　045-624-9825
+          </a>
+
+          <!-- センター南 -->
+          <a href="tel:090-2313-1314"
+             class="btn btn-success shop-select-btn">
+
+            センター南店　090-2313-1314
+          </a>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
 
     <div class="container">
         <div class="row">
