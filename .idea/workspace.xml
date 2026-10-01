@@ -22,27 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="上传info页面">
-      <change afterPath="$PROJECT_DIR$/image/shop-centerminami.png" afterDir="false" />
+    <list default="true" id="cb3073e2-25c9-4c23-a577-f7487b0d025c" name="Default Changelist" comment="更新信息center">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/ad/a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/ad/b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/ad/c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/shop-shinyokohama.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/shop-shinyokohama.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ad/menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/centerminami.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/centerminami.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/customer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/kamata.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kamata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/kawasaki.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kawasaki.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/kawasaki9f.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kawasaki9f.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/recruit.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/recruit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/shinyokohama.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shinyokohama.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,62 +59,65 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.1632547508870064E-137" />
-      <entry key="S5" value="1.717345562614904E-55" />
-      <entry key="S10" value="5.342842232658872E-28" />
-      <entry key="S30" value="2.4116538709601347E-9" />
-      <entry key="S60" value="1.3527283635562026E-4" />
-      <entry key="M2" value="0.03461708572877095" />
-      <entry key="M5" value="1.0491926219323946" />
-      <entry key="M10" value="3.3640724477948107" />
-      <entry key="M15" value="4.981402128213377" />
-      <entry key="M30" value="7.393360802252359" />
-      <entry key="H1" value="9.015322531382324" />
-      <entry key="H2" value="9.957551132433926" />
-      <entry key="H4" value="10.465595729997982" />
-      <entry key="D1" value="10.909043899738638" />
-      <entry key="W1" value="10.986959238390908" />
+      <entry key="MS100" value="1.0006011447331036" />
+      <entry key="MS500" value="1.2287847799723122" />
+      <entry key="S2" value="1.900770710918279" />
+      <entry key="S5" value="2.5092157680556584" />
+      <entry key="S10" value="3.259126358071955" />
+      <entry key="S30" value="4.949938930136752" />
+      <entry key="S60" value="5.839544989248095" />
+      <entry key="M2" value="6.792856273792953" />
+      <entry key="M5" value="9.428843298657636" />
+      <entry key="M10" value="12.967022694635288" />
+      <entry key="M15" value="15.788366487944863" />
+      <entry key="M30" value="21.92116932881953" />
+      <entry key="H1" value="28.306437259062797" />
+      <entry key="H2" value="33.23162830961161" />
+      <entry key="H4" value="36.341271399449475" />
+      <entry key="D1" value="39.34759321884251" />
+      <entry key="W1" value="39.90569098019423" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0000000446976613" />
-      <entry key="S60" value="1.000239102960302" />
-      <entry key="M2" value="1.0199259436062278" />
-      <entry key="M5" value="1.3081224996382113" />
-      <entry key="M10" value="1.7813330085414596" />
-      <entry key="M15" value="2.0676866945573487" />
-      <entry key="M30" value="2.460521506687532" />
-      <entry key="H1" value="2.7088804605794436" />
-      <entry key="H2" value="2.848657740489286" />
-      <entry key="H4" value="2.9228246137568683" />
-      <entry key="D1" value="2.9869233385221077" />
-      <entry key="W1" value="2.998126593497587" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="5.028370250332689E-199" />
+      <entry key="S10" value="7.091100232215509E-100" />
+      <entry key="S30" value="8.917392737035987E-34" />
+      <entry key="S60" value="2.9869143272064805E-17" />
+      <entry key="M2" value="5.573501311336925E-9" />
+      <entry key="M5" value="6.481450417085561E-4" />
+      <entry key="M10" value="0.03965126153646435" />
+      <entry key="M15" value="0.16361608459478572" />
+      <entry key="M30" value="0.6921461327163625" />
+      <entry key="H1" value="1.436729986663557" />
+      <entry key="H2" value="2.0745931076834223" />
+      <entry key="H4" value="2.4943022868169016" />
+      <entry key="D1" value="2.909031771031638" />
+      <entry key="W1" value="2.986830610322125" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0012708416557050126" />
-      <entry key="MS500" value="0.2635228558226844" />
-      <entry key="S2" value="0.7164808251865499" />
-      <entry key="S5" value="0.8751486533250812" />
-      <entry key="S10" value="0.9354938018635298" />
-      <entry key="S30" value="0.9780183237063675" />
-      <entry key="S60" value="0.9893170992261657" />
-      <entry key="M2" value="1.0487372040666074" />
-      <entry key="M5" value="2.3531404954021" />
-      <entry key="M10" value="5.141604134882554" />
-      <entry key="M15" value="7.045819417511471" />
-      <entry key="M30" value="9.851723616038539" />
-      <entry key="H1" value="11.722953027346641" />
-      <entry key="H2" value="12.805535121476915" />
-      <entry key="H4" value="13.388070424945445" />
-      <entry key="D1" value="13.895907030295332" />
-      <entry key="W1" value="13.985077183479556" />
+      <entry key="MS100" value="8.556529754860347E-4" />
+      <entry key="MS500" value="0.4196366026222302" />
+      <entry key="S2" value="1.5562799774385623" />
+      <entry key="S5" value="2.349440159228104" />
+      <entry key="S10" value="3.1711929690396907" />
+      <entry key="S30" value="4.915266686612093" />
+      <entry key="S60" value="5.820715413142909" />
+      <entry key="M2" value="6.7821335685721165" />
+      <entry key="M5" value="9.423309969644812" />
+      <entry key="M10" value="13.00237054081549" />
+      <entry key="M15" value="15.948452744279768" />
+      <entry key="M30" value="22.610738966514365" />
+      <entry key="H1" value="29.741406521968575" />
+      <entry key="H2" value="35.30514850308089" />
+      <entry key="H4" value="38.83497486193904" />
+      <entry key="D1" value="42.25651498532679" />
+      <entry key="W1" value="42.89250560302041" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -142,29 +127,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "javascript.preferred.runtime.type.id": "node",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/longe/Desktop/softhand/image",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/longe/Desktop/softhand/image&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/image" />
@@ -213,7 +199,9 @@
       <workItem from="1763625212375" duration="250000" />
       <workItem from="1782989622369" duration="3007000" />
       <workItem from="1788066226798" duration="225000" />
-      <workItem from="1788067356958" duration="1518000" />
+      <workItem from="1788067356958" duration="4894000" />
+      <workItem from="1788072579824" duration="976000" />
+      <workItem from="1790683666504" duration="515000" />
     </task>
     <task id="LOCAL-00001" summary="jia">
       <created>1582125695952</created>
@@ -509,63 +497,63 @@
       <option name="project" value="LOCAL" />
       <updated>1608373740037</updated>
     </task>
-    <task id="LOCAL-00046" summary="上传英文版">
+    <task id="LOCAL-00056" summary="更新信息center">
       <option name="closed" value="true" />
-      <created>1753180561679</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
+      <created>1788069224242</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
       <option name="project" value="LOCAL" />
-      <updated>1753180561679</updated>
+      <updated>1788069224242</updated>
     </task>
-    <task id="LOCAL-00047" summary="上传英文版">
+    <task id="LOCAL-00057" summary="更新信息center">
       <option name="closed" value="true" />
-      <created>1753180634210</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
+      <created>1788069331200</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
       <option name="project" value="LOCAL" />
-      <updated>1753180634210</updated>
+      <updated>1788069331200</updated>
     </task>
-    <task id="LOCAL-00048" summary="上传英文版">
+    <task id="LOCAL-00058" summary="更新信息center">
       <option name="closed" value="true" />
-      <created>1753181203899</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
+      <created>1788071866531</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
       <option name="project" value="LOCAL" />
-      <updated>1753181203899</updated>
+      <updated>1788071866531</updated>
     </task>
-    <task id="LOCAL-00049" summary="上传英文版">
+    <task id="LOCAL-00059" summary="更新信息center">
       <option name="closed" value="true" />
-      <created>1753181257762</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
+      <created>1788072154060</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
       <option name="project" value="LOCAL" />
-      <updated>1753181257762</updated>
+      <updated>1788072154060</updated>
     </task>
-    <task id="LOCAL-00050" summary="上传英文版">
+    <task id="LOCAL-00060" summary="更新信息center">
       <option name="closed" value="true" />
-      <created>1753181403804</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
+      <created>1788072474783</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
       <option name="project" value="LOCAL" />
-      <updated>1753181403804</updated>
+      <updated>1788072474783</updated>
     </task>
-    <task id="LOCAL-00051" summary="上传info页面">
+    <task id="LOCAL-00061" summary="更新信息center">
       <option name="closed" value="true" />
-      <created>1755828692306</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
+      <created>1788072813709</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
       <option name="project" value="LOCAL" />
-      <updated>1755828692307</updated>
+      <updated>1788072813709</updated>
     </task>
-    <task id="LOCAL-00052" summary="上传info页面">
+    <task id="LOCAL-00062" summary="更新信息center">
       <option name="closed" value="true" />
-      <created>1756962024502</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
+      <created>1788104516117</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
       <option name="project" value="LOCAL" />
-      <updated>1756962024503</updated>
+      <updated>1788104516117</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -576,7 +564,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -590,6 +590,7 @@
     <MESSAGE value="广告追踪" />
     <MESSAGE value="上传英文版" />
     <MESSAGE value="上传info页面" />
-    <option name="LAST_COMMIT_MESSAGE" value="上传info页面" />
+    <MESSAGE value="更新信息center" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新信息center" />
   </component>
 </project>
