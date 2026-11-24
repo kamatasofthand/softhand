@@ -5,3 +5,7 @@
 # local backup / redesign preview (not published)
 _backup_*/
 _new_site/
+
+# IDE / OS files
+.idea/
+.DS_Store
