@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /?ak_action=accept_mobile
+Allow: /
 
 Sitemap: https://www.softhand.jp/sitemap.xml
