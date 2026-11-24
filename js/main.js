@@ -73,7 +73,7 @@
 
   /* parallax for CTA background */
   var par = document.querySelectorAll('[data-parallax]');
-  if (par.length && !reduce) {
+  if (par.length && !reduce && !window.matchMedia('(max-width: 860px)').matches) {
     var tick = false;
     var upd = function () {
       par.forEach(function (el) {

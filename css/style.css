@@ -539,10 +539,13 @@ button { font: inherit; color: inherit; cursor: pointer; }
   .menu-card__en { font-size: 14px; }
   .pickup { grid-template-columns: 1fr; }
   .pickup__img { min-height: 220px; }
-  .shops { display: flex; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; gap: 16px; padding: 4px 24px 24px; margin: 0 -24px; scrollbar-width: none; }
+  .shops { display: flex; overflow-x: auto; overflow-y: hidden; -webkit-overflow-scrolling: touch; touch-action: pan-x pan-y; scroll-snap-type: x proximity; gap: 14px; padding: 4px 24px 24px; margin: 0 -24px; scrollbar-width: none; }
+  .shops > .reveal { opacity: 1 !important; transform: none !important; transition: none !important; }
+  .shop-card__img { aspect-ratio: 16 / 9; }
+  .shop-card__body { padding: 16px 18px 18px; gap: 8px; }
   .shops::-webkit-scrollbar { display: none; }
-  .shop-card { flex: 0 0 84%; scroll-snap-align: center; }
-  .shops__note { flex: 0 0 84%; scroll-snap-align: center; }
+  .shop-card { flex: 0 0 82%; scroll-snap-align: start; scroll-margin-left: 24px; transition: none; }
+  .shops__note { flex: 0 0 82%; scroll-snap-align: start; scroll-margin-left: 24px; min-height: 0; }
   .swipe-hint { display: flex !important; }
   .gallery { grid-template-columns: 1fr 1fr; grid-auto-rows: 150px; gap: 10px; }
   .gallery figure:nth-child(4) { grid-row: span 1; }
@@ -625,3 +628,9 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .shop-card__btns .btn { gap: .35em; letter-spacing: .02em; }
 .shop-card__btns .btn svg { width: 15px; height: 15px; }
 @media (max-width: 860px) { .shop-card__btns .btn { font-size: 13px; padding: 0 6px; } }
+
+/* touch devices: no sticky hover transforms */
+@media (hover: none) {
+  .shop-card:hover, .menu-card:hover { transform: none; box-shadow: var(--shadow-sm); }
+  .shop-card:hover .shop-card__img img { transform: none; }
+}
