@@ -9,3 +9,7 @@ _new_site/
 # IDE / OS files
 .idea/
 .DS_Store
+
+# Claude 交接记录（不发布到网站）
+CLAUDE.md
+.claude/
